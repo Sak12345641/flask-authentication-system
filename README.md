@@ -21,7 +21,7 @@ The project is created for learning backend development and authentication conce
 
 ## How to Run the Project
 1. Clone the repository  
-   git clone https://github.com/your-username/flask-authentication-system.git
+   git clone https://github.com/Sak12345641/flask-authentication-system/tree/main?tab=readme-ov-file
 
 2. Go to the project folder  
    cd flask-authentication-system
