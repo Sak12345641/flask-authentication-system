@@ -42,12 +42,20 @@ flask-authentication-system/
 ├── static/  
 └── README.md  
 
-## Learning Outcomes
-- Flask framework basics  
-- Authentication system  
-- Session handling  
-- Backend development fundamentals  
+## What I Learned
+While building this project I learned:
 
+- Backend web development using Flask
+- Implementing user authentication systems
+- Managing sessions and user login states
+- Structuring a multi-file Python web application
+- Basic web security concepts such as password hashing
+
+## Future Improvements
+- Email verification
+- Password reset functionality
+- Improved UI design
+- Deployment to a cloud platform
 ## Author
 Sakshi Mishra  
 BCA Student | Python Developer | Open Source Beginner | GSoC 2026 Aspirant
